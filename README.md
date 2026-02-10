@@ -2,4 +2,4 @@
 Mi primer repositorio
 Mi primera contribuciòn locla para GitHub
 Un commit màs desde Github
-Una actualizaciòn màs
+Una actualización más
